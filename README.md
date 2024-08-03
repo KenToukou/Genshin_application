@@ -1,0 +1,2 @@
+# Genshin_application
+原神キャラの情報をまとめたアプリケーション
